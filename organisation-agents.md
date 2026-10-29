@@ -22,11 +22,11 @@ Une application web demande bien plus que du code. Pour couvrir tout le cycle de
 9. Mesure : audience sans cookie, retours d'usage.
 10. Communication : posts, visuels, vidéo, toujours relus.
 
-## Les trois portes de validation
+## Trois validations humaines
 
-- Porte 1, maquette validée. Aucun écran n'est codé avant.
-- Porte 2, aperçu testé sur mobile. Chaque version est vérifiée sur une adresse d'aperçu avant d'aller plus loin.
-- Porte 3, mise en production. Uniquement avec un accord explicite.
+- La maquette, avant le code. Aucun écran n'est développé sans maquette validée.
+- L'aperçu, testé sur mobile. Chaque version est vérifiée sur une adresse d'aperçu avant d'aller plus loin.
+- Le feu vert pour la production. Rien n'est mis en ligne sans accord explicite.
 
 ## Ce qui rend l'ensemble fiable
 

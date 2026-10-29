@@ -2,13 +2,13 @@
 
 Ressources ouvertes tirées de la création de [Beau Fixe](https://beau-fixe.app), une application web gratuite qui trouve où il fera beau (ou frais en pleine canicule) le week-end, à quelques heures porte à porte de chez soi, en TGV, TER, voiture ou avion.
 
-L'application a été construite avec l'IA, en vibe coding, par quelqu'un qui n'est pas développeur de métier. Ce dépôt ne contient pas le code de l'application. Il rassemble ce qui a rendu le travail possible et reproductible, pour que d'autres puissent le réutiliser sur leurs propres projets.
+L'application a été construite avec l'IA, en vibe coding, sans avoir à coder. Ce dépôt ne contient pas le code de l'application. Il rassemble ce qui a rendu le travail possible et reproductible, pour que d'autres puissent le réutiliser sur leurs propres projets.
 
 ## Ce qu'on y trouve
 
 - `modeles/` : les trois fichiers de contexte à écrire avant la première ligne de code (BRIEF, CLAUDE.md, JOURNAL), commentés.
 - `skills/nouvelle-idee/` : une skill pour Claude qui cadre une idée, la challenge en quatre rôles et mène à un MVP testable.
-- `organisation-agents.md` : comment une petite équipe d'agents IA couvre tout le cycle de vie, avec un coordinateur, des fils spécialisés, une mémoire partagée et trois portes de validation humaine.
+- `organisation-agents.md` : comment une petite équipe d'agents IA couvre tout le cycle de vie, avec un coordinateur, des fils spécialisés, une mémoire partagée et trois validations humaines.
 - `checklists/mise-en-ligne.md` : sécurité, RGPD et accessibilité avant d'ouvrir au public.
 - `checklists/seo-geo.md` et `checklists/llms.txt` : être trouvé par les moteurs et cité par les IA génératives.
 - `frugalite.md` : les règles pour dépenser moins de tokens et obtenir de meilleures réponses.

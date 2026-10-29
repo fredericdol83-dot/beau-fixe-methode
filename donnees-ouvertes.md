@@ -1,6 +1,6 @@
 # Données ouvertes et API gratuites
 
-Beau Fixe ne fait que croiser des données publiques et des API gratuites. Merci à celles et ceux qui les produisent et les ouvrent. L'appli n'en est qu'un usage parmi beaucoup d'autres.
+Beau Fixe croise des données publiques et des API gratuites. Pouvoir valoriser ce que d'autres mettent à disposition est une vraie chance. Ces données forment un bien commun dont chacun peut se saisir, pour des usages très différents.
 
 Vérifiez toujours la licence, le quota et les conditions d'usage de chaque source avant de l'utiliser.
 
