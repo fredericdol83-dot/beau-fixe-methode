@@ -1,0 +1,14 @@
+# <Nom du service>
+
+> <Une phrase qui dit ce que fait le service et pour qui. Puis une ou deux phrases sur ce qui le distingue.>
+
+Comment ça marche : <les entrées de l'utilisateur, les données croisées, ce qu'on obtient>. <Les limites à connaître, par exemple des données indicatives.>
+
+<Ce qu'un agent IA peut faire ou non sur le site, à quel rythme, et si une API est publique.>
+
+## Pages
+
+- [Accueil](https://exemple.fr/): <ce qu'on y trouve>
+- [Méthode et sources](https://exemple.fr/methode/): <règles de calcul et sources de données>
+- [Mentions légales](https://exemple.fr/mentions-legales.html): éditeur, hébergeur, contact
+- [Confidentialité](https://exemple.fr/confidentialite.html): données utilisées, cookies
