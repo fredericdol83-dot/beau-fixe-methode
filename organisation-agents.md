@@ -2,6 +2,17 @@
 
 Une application web demande bien plus que du code. Pour couvrir tout le cycle de vie sans perdre le fil, le travail est réparti entre plusieurs agents, chacun dans son propre fil de discussion, avec un rôle clair. Les agents proposent, codent et testent. Les décisions restent humaines.
 
+```mermaid
+flowchart TB
+  H((Décideur humain)) -->|demande, arbitrage| C[Coordinateur]
+  C --> A1[Cadrage] & A2[Design] & A3[Développement] & A4[Tests] & A5[Sécurité et RGPD] & A6[SEO et GEO] & A7[Communication]
+  A1 & A2 & A3 & A4 & A5 & A6 & A7 <--> M[(Mémoire partagée<br/>BRIEF, CLAUDE.md, JOURNAL)]
+  A2 -->|maquette| V1{Validation 1}
+  A3 -->|aperçu| V2{Validation 2}
+  V2 -->|feu vert| V3{Validation 3 : production}
+  V1 & V2 & V3 --> H
+```
+
 ## Les rôles
 
 - Coordinateur. Il reçoit les demandes, les découpe, ouvre un fil par sujet et suit l'avancement. Il ne code pas lui-même.
